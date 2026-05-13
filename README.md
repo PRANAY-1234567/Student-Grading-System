@@ -1,4 +1,3 @@
-
 📌 Project Overview
 This project simulates a basic academic record system. It captures student identity, exam scores, and calculates the final result. The logic is spread across three hierarchical classes to ensure a clean separation of concerns:
 
