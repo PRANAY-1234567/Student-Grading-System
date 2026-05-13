@@ -1,4 +1,5 @@
 📌 Project Overview
+
 This project simulates a basic academic record system. It captures student identity, exam scores, and calculates the final result. The logic is spread across three hierarchical classes to ensure a clean separation of concerns:
 
 Student (Base Class): Handles basic identity like Name and Roll Number.
@@ -8,9 +9,11 @@ Exam (Derived from Student): Manages a list of marks for different subjects.
 Result (Derived from Exam): Processes the total marks and calculates the percentage.
 
 🏗️ Architecture: Multilevel Inheritance
+
 The program follows a linear inheritance chain. This allows the Result class to access properties and methods from both Exam and Student.
 
 🚀 How to Run
+
 Prerequisites: Ensure you have Python 3.x installed.
 
 Execution: Save the code in a file named student_result.py and run it via the terminal:
