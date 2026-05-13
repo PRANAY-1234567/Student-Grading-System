@@ -46,8 +46,6 @@ class Result(Exam):
         print(f"Total marks      : {self.total_marks}")
         print(f"Percentage       : {self.percent:.2f}")
 
-
-# Main execution block (Equivalent to your Inh5 class)
 if __name__ == "__main__":
     r = Result()
     name = "Ankush Tadke"
