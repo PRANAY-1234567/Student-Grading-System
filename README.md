@@ -1,4 +1,3 @@
-This README provides an overview of the Student Grading System, a simple Python application that demonstrates the concept of Multilevel Inheritance.
 
 📌 Project Overview
 This project simulates a basic academic record system. It captures student identity, exam scores, and calculates the final result. The logic is spread across three hierarchical classes to ensure a clean separation of concerns:
