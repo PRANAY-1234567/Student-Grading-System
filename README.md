@@ -20,7 +20,9 @@ Execution: Save the code in a file named student_result.py and run it via the te
 
 Bash
 python student_result.py
+
 💻 Code Structure
+
 1. Class Student
 Attributes: name, roll
 
@@ -43,6 +45,7 @@ Methods: * process(): Calculates the sum of marks and the percentage based on 6 
 display(): Combines data from all parent classes to show the final report card.
 
 📊 Sample Output
+
 When executed, the program generates a formatted report:
 
 Plaintext
