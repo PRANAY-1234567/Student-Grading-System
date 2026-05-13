@@ -56,7 +56,9 @@ Subject 2        : 87
 ...
 Total marks      : 521
 Percentage       : 86.83
+
 🛠️ Key Python Features Used
+
 Inheritance: Using class Child(Parent) to pass down functionality.
 
 super() Function: Used to call parent methods, avoiding code duplication.
